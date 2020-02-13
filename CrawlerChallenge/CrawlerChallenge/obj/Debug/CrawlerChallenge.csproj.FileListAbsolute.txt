@@ -1,0 +1,6 @@
+C:\Users\bbarker\Source\Repos\CrawlerChallenge\CrawlerChallenge\bin\Debug\CrawlerChallenge.exe.config
+C:\Users\bbarker\Source\Repos\CrawlerChallenge\CrawlerChallenge\bin\Debug\CrawlerChallenge.exe
+C:\Users\bbarker\Source\Repos\CrawlerChallenge\CrawlerChallenge\bin\Debug\CrawlerChallenge.pdb
+C:\Users\bbarker\Source\Repos\CrawlerChallenge\CrawlerChallenge\obj\Debug\CrawlerChallenge.csprojAssemblyReference.cache
+C:\Users\bbarker\Source\Repos\CrawlerChallenge\CrawlerChallenge\obj\Debug\CrawlerChallenge.exe
+C:\Users\bbarker\Source\Repos\CrawlerChallenge\CrawlerChallenge\obj\Debug\CrawlerChallenge.pdb
